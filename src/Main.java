@@ -6,7 +6,7 @@ public class Main {
             System.out.println(month);
         }
 
-        System.out.println("Current season: " + Season.SPRING);
+        System.out.println("Current season: " + Season.SUMMER);
 
         for (Season season : Season.values()) {
             System.out.println(season);
